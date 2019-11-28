@@ -1,0 +1,12 @@
+#centro {
+  width: 700px;
+  line-height: 50px;
+  text-align:center;
+
+  
+  /* pura mágica */
+  position: absolute;
+  top: 20%; /* posiciona na metade da tela */
+  left: 30%; /* posiciona na metade da tela */
+  margin-left: -100px; /* e retrocede metade da largura */
+}

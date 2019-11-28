@@ -1,0 +1,15 @@
+#banner {
+  width: 1000px;
+  height: 400px;
+
+  
+  /* pura mágica */
+  position: absolute;
+  top: 40%; /* posiciona na metade da tela */
+  left: 05%; /* posiciona na metade da tela */
+}
+
+.print{
+    width= 300px;
+    height= 400px;
+}
